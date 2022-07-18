@@ -17,3 +17,9 @@ $spacers: (
   9: $spacer * 6,
   10: $spacer * 7,
 );
+
+$text-muted: #64748b;
+$body-color: #0f172a;
+
+$navbar-light-color: $text-muted;
+$navbar-light-active-color: $body-color;
